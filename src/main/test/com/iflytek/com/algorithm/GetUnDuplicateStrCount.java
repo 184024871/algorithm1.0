@@ -1,6 +1,6 @@
 package com.iflytek.com.algorithm;
 
-public class getUnDuplicateStrCount {
+public class GetUnDuplicateStrCount {
 
     public static void main(String[] args) {
         String str = "aabbcefgcddeefg";
