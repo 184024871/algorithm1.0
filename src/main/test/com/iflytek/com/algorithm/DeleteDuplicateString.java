@@ -3,7 +3,7 @@ package com.iflytek.com.algorithm;
 import java.util.ArrayList;
 import java.util.List;
 
-public class DeleteRepeatString {
+public class DeleteDuplicateString {
 
     public static void main(String[] args) {
         String str = "aabbccddeefg";
