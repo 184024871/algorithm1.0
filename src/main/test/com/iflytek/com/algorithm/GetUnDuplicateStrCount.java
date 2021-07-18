@@ -1,5 +1,5 @@
 package com.iflytek.com.algorithm;
-
+// 获取连续不重复字符串的最大长度
 public class GetUnDuplicateStrCount {
 
     public static void main(String[] args) {

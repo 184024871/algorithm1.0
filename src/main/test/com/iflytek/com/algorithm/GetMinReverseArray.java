@@ -2,7 +2,7 @@ package com.iflytek.com.algorithm;
 
 import java.util.Arrays;
 import java.util.Collections;
-
+// 获取反转数组的最小值
 public class GetMinReverseArray {
 
     public static void main(String[] args) {
